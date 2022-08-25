@@ -5,7 +5,7 @@ Code Refactor
 
 ## Description
 
-Module one Challenge is a HTML, CSS and Git Challenge to refactor the code to improve accessibility standards for a marketing agency webpage. The CSS must be reworked to make it more efficient by consolidating CSS selectors and properties and HTML elements must follow a logical structure. 
+The Module one Challenge is a HTML, CSS and Git Challenge to refactor the code to improve accessibility standards for a marketing agency webpage. The CSS must be reworked to make it more efficient by consolidating CSS selectors and properties and HTML elements must follow a logical structure. 
 
 ## Notes
 
@@ -24,10 +24,6 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
-
-```md
-    ![alt text](assets/images/screenshot.png)
-    ```
 
 ## Credits
 
