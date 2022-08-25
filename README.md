@@ -1,7 +1,7 @@
 # module-one-challenge
 Code Refactor
 
-# Module One Challenge
+# HTML, CSS and Git Challenge
 
 ## Description
 
@@ -23,7 +23,11 @@ THEN I find accessible alt attributes
 WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
-THEN I find a concise, descriptive titl
+THEN I find a concise, descriptive title
+
+```md
+    ![alt text](assets/images/screenshot.png)
+    ```
 
 ## Credits
 
