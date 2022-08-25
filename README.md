@@ -25,8 +25,8 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
-    ![screenshot of horiseon webpage](assets/images/code-refactor-screenshot-1.png)
-    ![screenshot of horiseon webpage](assets/images/code-refactor-screenshot-2.png)
+![code-refactor-screenshot-1](https://user-images.githubusercontent.com/109199225/186551138-f24769f2-114e-44c7-835b-2f9d158c9022.png)
+![code-refactor-screenshot-2](https://user-images.githubusercontent.com/109199225/186551188-635cbaaf-5f76-46f9-b54d-bef6a3b58e7d.png)
 
 ## Credits
 
